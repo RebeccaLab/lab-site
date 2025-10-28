@@ -7,7 +7,7 @@ Meet the team behind the Rebecca Lin AI Lab.
 ## Professor
 
 <div class="members-grid">
-  <a href="about-professor/" class="member-card-link">
+  <a href="../about-professor/" class="member-card-link">
     <div class="member-card clickable">
       <img class="member-photo" src="/img/placeholder.png" alt="Professor Rebecca Lin">
       <div class="member-body">
