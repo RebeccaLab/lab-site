@@ -1,0 +1,24 @@
+# The URL the site will be built for
+base_url = "https://rebeccalab.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+# Syntax highlighting - configure in the markdown section
+[markdown]
+syntax_theme = "base16-ocean-dark"
+
+title = "Rebecca Lin AI Lab"
+
+# The taxonomies to be used for the blog
+taxonomies = [
+    {name = "tags", paginate_by = 10},
+]
+
+[extra]
+# Put all your custom variables here
+author = "Rebecca Lin AI Lab"
+
