@@ -1,7 +1,8 @@
 # Zola build directory
-/public
+public
 
 # OS files
 .DS_Store
 Thumbs.db
 
+# Keep docs/ tracked for GitHub Pages
