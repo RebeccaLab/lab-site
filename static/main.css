@@ -32,37 +32,23 @@ body {
         radial-gradient(circle at 80% 80%, rgba(0, 255, 136, 0.05) 0%, transparent 50%);
     font-size: 16px;
     letter-spacing: 0.3px;
+    overflow-x: hidden;
 }
 
 /* Header & Navigation */
 header {
-    background: linear-gradient(180deg, var(--primary-color) 0%, var(--primary-dark) เครือ%);
+    background: linear-gradient(180deg, var(--primary-color) 0%, var(--primary-dark) 100%);
     border-bottom: 2px solid var(--border-color);
     box-shadow: 0 0 20px rgba(0, 212, 255, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
+    overflow: hidden;
 }
 
 .navbar {
     padding: 1rem 0;
     position: relative;
-}
-
-.navbar::before {
-    content: '';
-    position: absolute;
-    bottom: -2px;
-    left: 0;
-    right: 0;
-    height: 2px;
-    background: linear-gradient(90deg, transparent, var(--tech-glow), transparent);
-    animation: tech-scan 3s linear infinite;
-}
-
-@keyframes tech-scan {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(100%); }
 }
 
 .nav-container {
