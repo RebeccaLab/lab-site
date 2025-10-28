@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://rebeccalab.github.io/lab-site"
+base_url = "/"
 
 # Site title
 title = "Rebecca Lin AI Lab"

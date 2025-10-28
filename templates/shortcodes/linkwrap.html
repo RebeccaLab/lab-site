@@ -1,0 +1,2 @@
+{% set href = get_url(path=url) %}
+<a href="{{ href }}" class="{{ class | default(value="") }}">{{ body | safe }}</a>

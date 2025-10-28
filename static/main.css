@@ -169,6 +169,11 @@ li {
     margin: 1.5rem 0 2.5rem 0;
 }
 
+.member-card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
 .member-card {
     background: #fff;
     border: 1px solid var(--border-color);
@@ -178,9 +183,14 @@ li {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.member-card:hover {
+.member-card:hover,
+.member-card.clickable:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+}
+
+.member-card.clickable {
+    cursor: pointer;
 }
 
 .member-photo {
