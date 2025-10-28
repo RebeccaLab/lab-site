@@ -1,5 +1,11 @@
 # The URL the site will be built for
-base_url = "https://rebeccalab.github.io"
+base_url = "https://rebeccalab.github.io/lab-site"
+
+# Site title
+title = "Rebecca Lin AI Lab"
+
+# Site description
+description = "Artificial Intelligence and Fuzzy Logic Research Laboratory focusing on Music AI, Neural Networks, and Deep Learning"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -7,13 +13,17 @@ compile_sass = false
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
+# Generate sitemap
+generate_sitemap = true
+
+# Generate robots.txt
+generate_robots_txt = true
+
 # Syntax highlighting - configure in the markdown section
 [markdown]
 syntax_theme = "base16-ocean-dark"
 
-title = "Rebecca Lin AI Lab"
-
-# The taxonomies to be used for the blog
+# The taxonomies to be used
 taxonomies = [
     {name = "tags", paginate_by = 10},
 ]
@@ -21,4 +31,7 @@ taxonomies = [
 [extra]
 # Put all your custom variables here
 author = "Rebecca Lin AI Lab"
+institution = "Feng Chia University (FCU)"
+lab_name = "Rebecca Lin AI Lab"
+focus_areas = ["Music AI", "Neural Networks", "Deep Learning", "Fuzzy Logic", "Image Analysis"]
 

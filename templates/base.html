@@ -3,21 +3,37 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ config.description }}">
     <title>{% block title %}{{ config.title }}{% endblock title %}</title>
     <link rel="stylesheet" href="{{ get_url(path="main.css") }}">
 </head>
 <body>
     <header>
-        <nav>
-            <a href="{{ config.base_url }}">{{ config.title }}</a>
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-brand">
+                    <a href="{{ config.base_url }}">{{ config.title }}</a>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="{{ config.base_url }}">Home</a></li>
+                    <li><a href="{{ get_url(path="research") }}">Research</a></li>
+                    <li><a href="{{ get_url(path="projects") }}">Projects</a></li>
+                    <li><a href="{{ get_url(path="about") }}">About</a></li>
+                </ul>
+            </div>
         </nav>
     </header>
     <main>
         {% block content %}{% endblock content %}
     </main>
     <footer>
-        <p>&copy; 2025 {{ config.extra.author }}. All rights reserved.</p>
+        <div class="footer-content">
+            <p>&copy; 2025 {{ config.extra.author }}. All rights reserved.</p>
+            <p class="institution">{{ config.extra.institution }}</p>
+            <p>
+                <a href="https://github.com/orgs/RebeccaLab/repositories" target="_blank" rel="noopener noreferrer">GitHub</a>
+            </p>
+        </div>
     </footer>
 </body>
 </html>
-
