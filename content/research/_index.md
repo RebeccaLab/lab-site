@@ -13,9 +13,8 @@ Our research in music AI spans several exciting areas:
 - **Music Generation**: Creating original music using neural networks, GANs, and transformer models
 - **Music Classification**: Genre detection and music information retrieval using deep learning
 - **Semantic Understanding**: Linking visual and auditory modalities for cross-modal music generation
-- **Lyrics-to-Melody**: Conditional generation of melodies from textual lyrics
 
-**Key Projects**: Muzic, BGT-G2G, Classical Piano Composer, Lyrics-Conditioned Melody Generation
+**Key Projects**: BGT-G2G
 
 ### 🧠 Neural Networks & Deep Learning
 
@@ -45,7 +44,7 @@ Multimedia understanding and visual information processing:
 - **Image-to-Music Translation**: Generating music from visual inputs
 - **Object Detection**: Identifying and localizing objects in images
 
-**Key Projects**: IARP (Image Analysis at FCU), BGT-G2G
+**Key Projects**: IARP (Image Analysis at FCU), BGT-G2G, Deepfake Detection: Cross Xception-ViT
 
 ### 🤖 Recommender Systems
 
@@ -58,17 +57,6 @@ Personalized content recommendation algorithms:
 
 **Key Projects**: Recommender System
 
-### 📚 Educational Tools
-
-Open-source educational resources for AI and machine learning:
-
-- **Mathematics of ML Course**: Foundation courses in machine learning mathematics
-- **Jupyter Notebooks**: Interactive tutorials and demonstrations
-- **Open Source Frameworks**: Contribution to open-source AI tools
-
-**Key Projects**: mathematics-of-ml-course
-
----
 
 *Interested in collaborating or learning more? Contact us!*
 

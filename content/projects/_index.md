@@ -8,15 +8,6 @@ Our lab maintains active research projects spanning multiple areas of AI and mac
 
 ### 🎵 Music AI & Audio Processing
 
-#### [Muzic](https://github.com/RebeccaLab/muzic) ⭐ 492+
-**Music Understanding and Generation with Artificial Intelligence**
-
-A comprehensive platform for music AI research, featuring tools for music generation, understanding, and analysis.
-
-**Status**: Active | **License**: MIT
-
----
-
 #### [BGT-G2G](https://github.com/RebeccaLab/BGT-G2G)
 **Retaining Semantics in Image to Music Conversion**
 
@@ -26,19 +17,6 @@ Accepted at the 24th IEEE International Symposium on Multimedia (22.2% acceptanc
 
 ---
 
-#### [Classical Piano Composer](https://github.com/RebeccaLab/Classical-Piano-Composer) ⭐ 317+
-AI-powered composer that generates classical-style piano music using deep learning techniques.
-
-**Status**: Active | **License**: MIT
-
----
-
-#### [Lyrics-Conditioned Neural Melody Generation](https://github.com/RebeccaLab/Lyrics-Conditioned-Neural-Melody-Generation) ⭐ 62+
-Generates melodies conditioned on textual lyrics, bridging language and music through neural networks.
-
-**Status**: Active | **License**: Open Source
-
----
 
 #### [GenreDiscern](https://github.com/RebeccaLab/GenreDiscern)
 **Music Genre Discriminator via Artificial Neural Network Modeling**
@@ -56,10 +34,9 @@ Damn summer internship project with Feng Chia University exploring GRU networks 
 
 ---
 
-#### [Open NSynth Super](https://github.com/RebeccaLab/open-nsynth-super) ⭐ 275+
-Experimental physical interface for the NSynth (Neural Audio Synthesis) algorithm from Google's Magenta project.
-
-**Status**: Active | **License**: Apache-2.0
+#### [MGRP](https://github.com/RebeccaLab/MGRP)
+Research project at Feng Chia University.
+**Status**: Active | **License**: MIT
 
 ---
 
@@ -83,10 +60,10 @@ Image analysis research project at Feng Chia University focusing on computer vis
 
 ---
 
-#### [MGRP](https://github.com/RebeccaLab/MGRP)
-Research project at Feng Chia University.
+#### [Deepfake Detection: Cross Xception-ViT](https://github.com/SaintY-918/Deepfake-Detection-Cross-Xception-ViT)
+Robust deepfake detection using a cross Xception and Vision Transformer hybrid architecture.
 
-**Status**: Active | **License**: MIT
+**Status**: Active | **License**: Open Source
 
 ---
 
@@ -96,31 +73,6 @@ Research project at Feng Chia University.
 Personalized recommendation algorithms for content suggestion and user modeling.
 
 **Status**: Active | **License**: MIT
-
----
-
-### 📚 Educational & Experimental
-
-#### [Mathematics of ML Course](https://github.com/RebeccaLab/mathematics-of-ml-course) ⭐ 16+
-Interactive course materials covering the mathematical foundations of machine learning.
-
-**Status**: Active | **License**: Open Source
-
----
-
-#### [Zenbo Build](https://github.com/RebeccaLab/zenbo-build) ⭐ 8+
-Build sample demonstrating Microsoft Bot Framework and cognitive services using ASUS Zenbo robot.
-
-**Status**: Demo | **License**: MIT
-
----
-
-### 🌐 Collaborative Projects
-
-#### [omigroup](https://github.com/RebeccaLab/omigroup)
-Sandbox for discussing Open Metaverse Interoperability objectives. Join us in GitHub discussions and Discord!
-
-**Status**: Active | **License**: Open Source
 
 ---
 
