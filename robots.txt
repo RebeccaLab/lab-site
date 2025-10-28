@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://rebeccalab.github.io/lab-site/sitemap.xml
