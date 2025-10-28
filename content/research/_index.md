@@ -2,8 +2,6 @@
 title = "Research Areas"
 +++
 
-## Research Areas
-
 The Rebecca Lin AI Lab conducts cutting-edge research across multiple domains of artificial intelligence.
 
 ### 🎵 Music & Audio AI
