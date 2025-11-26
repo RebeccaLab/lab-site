@@ -6,6 +6,8 @@ title = "About"
 
 The **Rebecca Lin AI Lab** is a research laboratory at [Feng Chia University (FCU)](https://www.fcu.edu.tw/) dedicated to advancing the field of artificial intelligence through innovative research and open-source development.
 
+**Learn more about [Professor Pei-Chun Lin](/about-professor/), the lab director.**
+
 ### Mission
 
 Our mission is to:
