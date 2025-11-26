@@ -2,7 +2,7 @@
 title = "關於林佩君教授"
 +++
 
-## Pei-Chun Lin, Ph.D.
+## 林佩君, Ph.D.
 
 **Associate Professor**
 
@@ -22,7 +22,7 @@ No. 100, Wenhwa Road, Taichung City, 407102, Taiwan, R.O.C.
 
 ## 學歷
 
-### Ph.D. in Engineering
+### 早稻田大學 情報生產管理學研究院 博士
 **Waseda University**, Graduate School of Information, Production and Systems (IPS)  
 Kitakyushu, Fukuoka, Japan  
 **2009.04 - 2013.04**
@@ -31,7 +31,7 @@ Kitakyushu, Fukuoka, Japan
 - **Ph.D. Thesis**: Building Statistical Hypothesis Tests for Fuzzy Data and Their Applications to Decision Making
 - **Major**: Statistical Modeling; Fuzzy Statistic Hypothesis Tests; Decision Making
 
-### Ph.D. in Mathematical Sciences (Courses Certification)
+### 國立政治大學 應用數學系 博士 (課程認證)
 **National Chengchi University**, Department of Mathematical Sciences  
 Taipei, Taiwan  
 **2007.08 - 2009.01**
@@ -39,7 +39,7 @@ Taipei, Taiwan
 - **Advisor**: Prof. Berlin Wu
 - **Major**: Fuzzy Statistic Hypothesis Tests
 
-### M.Sc. in Mathematical Sciences
+### 國立政治大學 應用數學系 碩士
 **National Chengchi University**, Department of Mathematical Sciences  
 Taipei, Taiwan  
 **2005.08 - 2007.07**
@@ -48,7 +48,7 @@ Taipei, Taiwan
 - **Master Thesis**: Fuzzy Chi-square Test Statistic for Goodness-of-Fit
 - **Major**: Nonparametric Fuzzy Statistic Hypothesis Tests
 
-### B.Sc. in Mathematics
+### 國立高雄師範大學 數學系 學士
 **National Kaohsiung Normal University**, Department of Mathematics  
 Kaohsiung, Taiwan  
 **1998.08 - 2002.07**
@@ -68,6 +68,14 @@ Kaohsiung, Taiwan
 - **2003 - 2005**: Teaching Assistant, Department of Applied Mathematics, Feng Chia University, Taiwan
 
 ---
+
+## 專長
+
+- 模糊統計 (Fuzzy Statistics)
+- 統計建模 (Statistical Modeling)
+- 感性工學 (Kansei Engineering)
+- 大數據分析 (Big Data Analytics)
+- 人工智慧開發與應用 (Artificial Intelligence Development and Application)
 
 ## 研究興趣
 
@@ -91,7 +99,7 @@ Kaohsiung, Taiwan
 
 ## 發表成果
 
-### Journal Publications (2009 - 2025)
+### 期刊發表 (2009 - 2025)
 
 **2025**
 
@@ -211,7 +219,7 @@ Kaohsiung, Taiwan
 
 ---
 
-### Conference Publications (2007 - 2025)
+### 會議發表 (2007 - 2025)
 
 **2025**
 
@@ -285,15 +293,15 @@ Kaohsiung, Taiwan
 
 ## 榮譽與獎項
 
-### Research Insight — Cover Character
+### 研究洞察 — 封面人物
 
 - P.-C. Lin*, Character Model Identification and Interactive AI Simulation Application, Impact, Volume 2021, Number 1, pp. 18-20 (3), February 2021.
 
-### Conference Best Paper Award
+### 會議最佳論文獎
 
 - Muhammad Shukri Che Lah, Nureize Arbaiy, and P.-C. Lin*, Forecasting of ARIMA air pollution with improved Fuzzy Data Preparation, the 9th International Conference on Applied Science and Technology (9th ICAST 2021) & the 5th International Conference on Business, Economics & Finance (5th ICBEF 2021), Virtual Conference, April 5-6, 2021.
 
-### FCU Excellence Paper Awards
+### 逢甲大學優秀論文獎
 
 - Hamijah Mohd Rahman, Nureize Arbaiy, Chuah Chai Wen, and P.-C. Lin, Estimating Probability Values based on Naïve Bayes for Fuzzy Random Regression Model, International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 14, No. 8. pp. 579-584, August 2023. (EI)
 
@@ -315,7 +323,7 @@ Kaohsiung, Taiwan
 
 ## 專業服務
 
-### Programming Committee (PC) / Technical Committee (TC) / Chair
+### 程式委員會 (PC) / 技術委員會 (TC) / 主席
 
 - **2025** 7th International Conference on Big Data Engineering (BDE 2025), TC
 - **2024** The 16th International KES Conference — Intelligent Decision Technologies (KES-IDT 2024), PC

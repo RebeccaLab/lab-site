@@ -14,35 +14,35 @@ No. 100, Wenhwa Road, Taichung City, 407102, Taiwan, R.O.C.
 
 ## 學歷
 
-### Ph.D. in Evolutionary Biology
+### 演化生物學 博士
 **Hokkaido University**  
 Japan  
 **Sept. 2022 – Sept. 2025**
 
 - **Thesis**: Influence of Host Association and Biogeography on Pacific Marine Gregarine Speciation
 
-### M.S. in Neurophysiology
+### 神經生理學 碩士
 **National Taiwan Normal University**  
 Taiwan  
 **Feb. 2019 – Jun. 2021**
 
 - **Thesis**: Evaluation of the Therapeutic Effects of Dimethyl Sulfoxide on FMR1 Mutant Zebrafish Using Open-Source Deep Learning Software
 
-### M.A. in Applied Linguistics
+### 應用語言學 碩士
 **Yuan Ze University**  
 Taiwan  
 **Feb. 2017 – Jun. 2019**
 
 - **Thesis**: English-to-Japanese Translation of the Beck Depression Inventory-II: an Appraisal Analysis
 
-### B.A. in Japanese Language
+### 日本語 學士
 **University of Alaska, Anchorage**  
 USA  
 **Aug. 2010 – Jul. 2012**
 
 - GPA: 3.9/4.0
 
-### B.S. in Biology
+### 生物學 學士
 **Saint Louis University**  
 USA  
 **Aug. 2006 – May 2010**
@@ -53,7 +53,7 @@ USA
 
 ## 專業經歷
 
-### Full-Stack Web Developer
+### 全端網頁開發工程師
 **matsuri-hr.com**  
 Tokyo, Japan  
 **Aug. 2024 – Present**
@@ -62,7 +62,7 @@ Tokyo, Japan
 - **Responsibilities**: Incorporate CI/CD workflows, build end-to-end functionality, code review, assist junior team members, lead meetings, respond to client feedback
 - **Tools**: Ruby on Rails, Nuxt/Vue.js, Docker, Ubuntu Server
 
-### Static Site Developer, DevOps, and AI Integration Intern
+### 靜態網站開發、DevOps 與 AI 整合實習生
 **Space Cubics, Inc.**  
 **Dec. 2024 – Present**
 
@@ -73,7 +73,7 @@ Tokyo, Japan
   3. Lead project integrating AI (Faster R-CNN) into PCB quality assurance workflow (image-based PCB component confirmation)
 - **Tools**: Zephyr, Zola, Jekyll, PyTorch, GitHub Actions, Nucleo-F429ZI, RPI Pico II
 
-### Machine Learning Researcher
+### 機器學習研究員
 **Rebecca Lin Lab** (Taiwan Experience Education Program - TEEP)  
 **Dec. 2021 – Aug. 2022**
 
@@ -86,7 +86,7 @@ Tokyo, Japan
 
 ## 發表成果
 
-### Journal Articles
+### 期刊文章
 
 **2025**
 
@@ -112,7 +112,7 @@ Tokyo, Japan
 
 - Lau, K., Lin, C.-Y., & **Odle, E.** (2020). 'I am just saying maybe…': Engagement in dissertation defenses. *Language and Education*, 35(1), 1–21.
 
-### Conference Proceedings
+### 會議論文集
 
 **2024**
 
