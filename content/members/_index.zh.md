@@ -7,7 +7,7 @@ title = "實驗室成員"
 ## 教授
 
 <div class="members-grid">
-  <a href="../about-professor/" class="member-card-link">
+  <a href="/zh/about-professor/" class="member-card-link">
     <div class="member-card clickable">
       <img class="member-photo" src="/img/placeholder.png" alt="林佩君教授">
       <div class="member-body">
