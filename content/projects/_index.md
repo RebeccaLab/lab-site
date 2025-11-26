@@ -34,12 +34,6 @@ Damn summer internship project with Feng Chia University exploring GRU networks 
 
 ---
 
-#### [MGRP](https://github.com/RebeccaLab/MGRP)
-Research project at Feng Chia University.
-**Status**: Active | **License**: MIT
-
----
-
 ### 🧠 Neural Networks & Deep Learning
 
 #### [GAN Multi-Class Credit Score](https://github.com/RebeccaLab/gan-multi-class-credit-score)
@@ -50,15 +44,6 @@ Research project exploring the use of Generative Adversarial Networks for multi-
 ---
 
 ### 👁️ Image Analysis
-
-#### [IARP](https://github.com/RebeccaLab/IARP)
-**Research Project for Image Analysis at FCU**
-
-Image analysis research project at Feng Chia University focusing on computer vision and pattern recognition.
-
-**Status**: Active | **License**: MIT
-
----
 
 #### [Deepfake Detection: Cross Xception-ViT](https://github.com/SaintY-918/Deepfake-Detection-Cross-Xception-ViT)
 Robust deepfake detection using a cross Xception and Vision Transformer hybrid architecture.
