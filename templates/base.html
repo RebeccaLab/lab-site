@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{% if page %}{% if page.lang %}{{ page.lang }}{% else %}en{% endif %}{% elif section %}{% if section.lang %}{{ section.lang }}{% else %}en{% endif %}{% else %}en{% endif %}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -12,14 +12,53 @@
         <nav class="navbar">
             <div class="nav-container">
                 <div class="nav-brand">
-                    <a href="{{ config.base_url }}">{{ config.title }}</a>
+                    <a href="{% if page %}{% if page.lang == "zh" %}/zh/{% else %}/{% endif %}{% elif section %}{% if section.lang == "zh" %}/zh/{% else %}/{% endif %}{% else %}/{% endif %}">{{ config.title }}</a>
                 </div>
                 <ul class="nav-menu">
-                    <li><a href="{{ get_url(path="research") }}">Research</a></li>
-                    <li><a href="{{ get_url(path="projects") }}">Projects</a></li>
-                    <li><a href="{{ get_url(path="members") }}">Members</a></li>
-                    <li><a href="{{ get_url(path="prospective-students") }}">Prospective Students</a></li>
-                    <li><a href="{{ get_url(path="about") }}">About</a></li>
+                    {% set current_lang = "en" %}
+                    {% if page and page.lang %}{% set current_lang = page.lang %}{% elif section and section.lang %}{% set current_lang = section.lang %}{% endif %}
+                    <li><a href="{% if current_lang == "zh" %}/zh/research/{% else %}/research/{% endif %}">{% if current_lang == "zh" %}研究領域{% else %}Research{% endif %}</a></li>
+                    <li><a href="{% if current_lang == "zh" %}/zh/projects/{% else %}/projects/{% endif %}">{% if current_lang == "zh" %}研究專案{% else %}Projects{% endif %}</a></li>
+                    <li><a href="{% if current_lang == "zh" %}/zh/members/{% else %}/members/{% endif %}">{% if current_lang == "zh" %}實驗室成員{% else %}Members{% endif %}</a></li>
+                    <li><a href="{% if current_lang == "zh" %}/zh/prospective-students/{% else %}/prospective-students/{% endif %}">{% if current_lang == "zh" %}準學生{% else %}Prospective Students{% endif %}</a></li>
+                    <li><a href="{% if current_lang == "zh" %}/zh/about/{% else %}/about/{% endif %}">{% if current_lang == "zh" %}關於實驗室{% else %}About{% endif %}</a></li>
+                    <li class="lang-switcher">
+                        {% if current_lang == "en" %}
+                            {% if section %}
+                                {% if section.path == "/" %}
+                                    <a href="/zh/">中文</a>
+                                {% else %}
+                                    <a href="/zh{{ section.path }}">中文</a>
+                                {% endif %}
+                            {% elif page %}
+                                {% if page.path == "/" %}
+                                    <a href="/zh/">中文</a>
+                                {% else %}
+                                    <a href="/zh{{ page.path }}">中文</a>
+                                {% endif %}
+                            {% else %}
+                                <a href="/zh/">中文</a>
+                            {% endif %}
+                        {% else %}
+                            {% if section %}
+                                {% set path_no_zh = section.path | replace(from="/zh", to="") %}
+                                {% if path_no_zh == "" or path_no_zh == "/" %}
+                                    <a href="/">English</a>
+                                {% else %}
+                                    <a href="{{ path_no_zh }}">English</a>
+                                {% endif %}
+                            {% elif page %}
+                                {% set path_no_zh = page.path | replace(from="/zh", to="") %}
+                                {% if path_no_zh == "" or path_no_zh == "/" %}
+                                    <a href="/">English</a>
+                                {% else %}
+                                    <a href="{{ path_no_zh }}">English</a>
+                                {% endif %}
+                            {% else %}
+                                <a href="/">English</a>
+                            {% endif %}
+                        {% endif %}
+                    </li>
                 </ul>
             </div>
         </nav>

@@ -1,11 +1,8 @@
 # The URL the site will be built for
 base_url = "/"
 
-# Site title
-title = "Rebecca Lin AI Lab"
-
-# Site description
-description = "Artificial Intelligence and Fuzzy Logic Research Laboratory focusing on Music AI, Neural Networks, and Deep Learning"
+# Default language
+default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
@@ -34,4 +31,12 @@ author = "Rebecca Lin AI Lab"
 institution = "Feng Chia University (FCU)"
 lab_name = "Rebecca Lin AI Lab"
 focus_areas = ["Music AI", "Neural Networks", "Deep Learning", "Fuzzy Logic", "Image Analysis"]
+
+[languages.en]
+title = "Rebecca Lin AI Lab"
+description = "Artificial Intelligence and Fuzzy Logic Research Laboratory focusing on Music AI, Neural Networks, and Deep Learning"
+
+[languages.zh]
+title = "林佩君 AI 實驗室"
+description = "專注於音樂 AI、神經網路與深度學習的人工智慧與模糊邏輯研究實驗室"
 
