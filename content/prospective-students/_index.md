@@ -93,7 +93,7 @@ We are looking for students who:
 
 If you believe the Rebecca Lin AI Lab is the right environment for you, we encourage you to:
 
-1. **Review our research** - Explore our [publications](/about-professor/#publications) and [projects](/projects/) to understand our work
+1. **Review our research** - Explore our [publications](/members/about-professor/#publications) and [projects](/projects/) to understand our work
 2. **Learn about our members** - Get to know the [lab team](/members/) and their research interests
 3. **Contact us** - Reach out to Professor Pei-Chun Lin at **peiclin@fcu.edu.tw** with:
    - Your academic background and research interests

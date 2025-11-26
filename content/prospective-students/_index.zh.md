@@ -93,7 +93,7 @@ title = "準學生"
 
 如果您認為林佩君 AI 實驗室是適合您的環境，我們鼓勵您：
 
-1. **查看我們的研究** - 探索我們的[發表成果](/about-professor/#publications)和[專案](/projects/)以了解我們的工作
+1. **查看我們的研究** - 探索我們的[發表成果](/zh/members/about-professor/#publications)和[專案](/zh/projects/)以了解我們的工作
 2. **了解我們的成員** - 認識[實驗室團隊](/members/)及其研究興趣
 3. **聯絡我們** - 透過 **peiclin@fcu.edu.tw** 聯絡林佩君教授，並附上：
    - 您的學術背景和研究興趣
