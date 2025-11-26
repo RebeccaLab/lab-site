@@ -22,14 +22,16 @@ Meet the team behind the Rebecca Lin AI Lab.
 ## Postdoctoral Researchers
 
 <div class="members-grid">
-  <div class="member-card">
-    <img class="member-photo" src="/img/placeholder.png" alt="Postdoc Member">
-    <div class="member-body">
-      <div class="member-name">Eric</div>
-      <div class="member-role">Postdoctoral Researcher</div>
-      <div class="member-bio">Interested in AI and web development.</div>
+  <a href="/members/eric-odle/" class="member-card-link">
+    <div class="member-card clickable">
+      <img class="member-photo" src="/img/placeholder.png" alt="Eric Odle">
+      <div class="member-body">
+        <div class="member-name">Eric Odle, Ph.D.</div>
+        <div class="member-role">Postdoctoral Researcher</div>
+        <div class="member-bio">Machine learning researcher with expertise in music AI, NLP, and evolutionary biology.</div>
+      </div>
     </div>
-  </div>
+  </a>
 </div>
 
 <!--
