@@ -22,7 +22,7 @@ Meet the team behind the Rebecca Lin AI Lab.
 ## Postdoctoral Researchers
 
 <div class="members-grid">
-  <a href="/members/eric-odle/" class="member-card-link">
+  <a href="../members/eric-odle/" class="member-card-link">
     <div class="member-card clickable">
       <img class="member-photo" src="/img/placeholder.png" alt="Eric Odle">
       <div class="member-body">
