@@ -2,7 +2,7 @@
 title = "Lab Members"
 +++
 
-Meet the team behind the Rebecca Lin AI Lab.
+Meet the team behind the Rebecca AI Lab.
 
 ## Professor
 

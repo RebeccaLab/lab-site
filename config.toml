@@ -27,16 +27,16 @@ taxonomies = [
 
 [extra]
 # Put all your custom variables here
-author = "Rebecca Lin AI Lab"
+author = "Rebecca AI Lab"
 institution = "Feng Chia University (FCU)"
-lab_name = "Rebecca Lin AI Lab"
+lab_name = "Rebecca AI Lab"
 focus_areas = ["Music AI", "Neural Networks", "Deep Learning", "Fuzzy Logic", "Image Analysis"]
 
 [languages.en]
-title = "Rebecca Lin AI Lab"
+title = "Rebecca AI Lab"
 description = "Artificial Intelligence and Fuzzy Logic Research Laboratory focusing on Music AI, Neural Networks, and Deep Learning"
 
 [languages.zh]
-title = "林佩君 AI 實驗室"
+title = "Rebecca AI 實驗室"
 description = "專注於音樂 AI、神經網路與深度學習的人工智慧與模糊邏輯研究實驗室"
 

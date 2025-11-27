@@ -2,9 +2,9 @@
 title = "關於實驗室"
 +++
 
-## 關於林佩君 AI 實驗室
+## 關於 Rebecca AI 實驗室
 
-**林佩君 AI 實驗室**是位於[逢甲大學 (FCU)](https://www.fcu.edu.tw/)的研究實驗室，致力於透過創新研究和開源開發推動人工智慧領域的發展。
+**Rebecca AI 實驗室**是位於[逢甲大學 (FCU)](https://www.fcu.edu.tw/)的研究實驗室，致力於透過創新研究和開源開發推動人工智慧領域的發展。
 
 **了解更多關於實驗室主任[林佩君教授](/zh/members/about-professor/)的資訊。**
 

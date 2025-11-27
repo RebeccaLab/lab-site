@@ -1,10 +1,10 @@
 +++
-title = "Rebecca Lin AI Lab"
+title = "Rebecca AI Lab"
 +++
 
 ## Advancing AI Through Music, Neural Networks, and Fuzzy Logic
 
-Welcome to the **Rebecca Lin AI Lab** at Feng Chia University. We are a research laboratory dedicated to pushing the boundaries of artificial intelligence, with a particular focus on music generation, neural network architectures, fuzzy logic systems, and deep learning applications.
+Welcome to the **Rebecca AI Lab** at Feng Chia University. We are a research laboratory dedicated to pushing the boundaries of artificial intelligence, with a particular focus on music generation, neural network architectures, fuzzy logic systems, and deep learning applications.
 
 ### Our Research Focus
 

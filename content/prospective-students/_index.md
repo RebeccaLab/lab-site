@@ -2,9 +2,9 @@
 title = "Prospective Students"
 +++
 
-## Welcome to Rebecca Lin AI Lab
+## Welcome to Rebecca AI Lab
 
-We are excited that you are considering joining the **Rebecca Lin AI Lab** at Feng Chia University! Our laboratory is a dynamic research environment dedicated to advancing the frontiers of artificial intelligence, with particular focus on music AI, neural networks, fuzzy logic, and deep learning applications.
+We are excited that you are considering joining the **Rebecca AI Lab** at Feng Chia University! Our laboratory is a dynamic research environment dedicated to advancing the frontiers of artificial intelligence, with particular focus on music AI, neural networks, fuzzy logic, and deep learning applications.
 
 ### What We Offer
 
@@ -33,7 +33,7 @@ Our lab focuses on several key research domains:
 
 ### Performance Milestones
 
-The Rebecca Lin AI Lab maintains high standards for research excellence. We expect all members to:
+The Rebecca AI Lab maintains high standards for research excellence. We expect all members to:
 
 - **Meet research milestones** on schedule and contribute meaningfully to ongoing projects
 - **Maintain consistent progress** toward degree completion and research objectives
@@ -91,7 +91,7 @@ We are looking for students who:
 
 ## How to Apply
 
-If you believe the Rebecca Lin AI Lab is the right environment for you, we encourage you to:
+If you believe the Rebecca AI Lab is the right environment for you, we encourage you to:
 
 1. **Review our research** - Explore our [publications](/members/about-professor/#publications) and [projects](/projects/) to understand our work
 2. **Learn about our members** - Get to know the [lab team](/members/) and their research interests
@@ -128,7 +128,7 @@ New lab members can expect:
 
 ## Final Thoughts
 
-The Rebecca Lin AI Lab is committed to excellence in research and the success of our members. We believe in being transparent about our expectations so that students can make informed decisions about joining our laboratory.
+The Rebecca AI Lab is committed to excellence in research and the success of our members. We believe in being transparent about our expectations so that students can make informed decisions about joining our laboratory.
 
 **Research is challenging, but it is also incredibly rewarding.** If you have the passion, commitment, and resilience to thrive in our environment, we would be delighted to welcome you to our team.
 

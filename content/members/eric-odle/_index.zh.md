@@ -74,7 +74,7 @@ Tokyo, Japan
 - **Tools**: Zephyr, Zola, Jekyll, PyTorch, GitHub Actions, Nucleo-F429ZI, RPI Pico II
 
 ### 機器學習研究員
-**Rebecca Lin Lab** (Taiwan Experience Education Program - TEEP)  
+**Rebecca AI Lab** (Taiwan Experience Education Program - TEEP)  
 **Dec. 2021 – Aug. 2022**
 
 - **Role**: Machine learning researcher

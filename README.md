@@ -1,10 +1,10 @@
-# Rebecca Lin AI Lab Website
+# Rebecca AI Lab Website
 
-This is the official website for the Rebecca Lin AI Lab at Feng Chia University, built with [Zola](https://www.getzola.org/) and hosted on GitHub Pages.
+This is the official website for the Rebecca AI Lab at Feng Chia University, built with [Zola](https://www.getzola.org/) and hosted on GitHub Pages.
 
 ## 🎯 About the Lab
 
-The Rebecca Lin AI Lab conducts cutting-edge research in artificial intelligence, with a focus on:
+The Rebecca AI Lab conducts cutting-edge research in artificial intelligence, with a focus on:
 - **Music & Audio AI**: Generation, classification, and semantic understanding
 - **Neural Networks**: GANs, RNNs, and advanced architectures
 - **Fuzzy Logic Systems**: Uncertainty handling and decision-making

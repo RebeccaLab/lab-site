@@ -348,9 +348,9 @@ Kaohsiung, Taiwan
 
 ---
 
-## 關於 Rebecca Lab
+## 關於 Rebecca AI Lab
 
-Rebecca Lab was founded in 2017 by Associate Professor Pei-Chun Lin as a part of the Feng Chia University, Department of Information Engineering and Computer Sciences. The laboratory focuses on System Analysis and Robotic Computing and has engaged in the fields of Artificial Intelligence of Things (AIOT) and live entertainment. The AIOT research applications include building Smart Speaker and Companion Robot. The live entertainment research includes Music Composer and VR platforms for performances.
+Rebecca AI Lab was founded in 2017 by Associate Professor Pei-Chun Lin as a part of the Feng Chia University, Department of Information Engineering and Computer Sciences. The laboratory focuses on System Analysis and Robotic Computing and has engaged in the fields of Artificial Intelligence of Things (AIOT) and live entertainment. The AIOT research applications include building Smart Speaker and Companion Robot. The live entertainment research includes Music Composer and VR platforms for performances.
 
 Dr. Lin not only has good results in the research field but also serves as the editor and reviewer of many top journals. At the same time, she also serves as the keynote speaker for many international academic exchanges.
 

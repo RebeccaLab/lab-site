@@ -2,7 +2,7 @@
 title = "Research Areas"
 +++
 
-The Rebecca Lin AI Lab conducts cutting-edge research across multiple domains of artificial intelligence.
+The Rebecca AI Lab conducts cutting-edge research across multiple domains of artificial intelligence.
 
 ### 🎵 Music & Audio AI
 
