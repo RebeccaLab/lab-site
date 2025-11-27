@@ -76,15 +76,6 @@ header {
     text-shadow: 0 0 20px rgba(0, 255, 136, 0.8);
 }
 
-.nav-brand a::after {
-    content: '_';
-    animation: blink 1s infinite;
-}
-
-@keyframes blink {
-    0%, 50% { opacity: 1; }
-    51%, 100% { opacity: 0; }
-}
 
 .nav-menu {
     display: flex;
