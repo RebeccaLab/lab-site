@@ -22,9 +22,6 @@ Our lab has contributed to significant research projects including:
 
 - **Muzic**: Music understanding and generation with AI (492+ stars)
 - **BGT-G2G**: Retaining semantics in image-to-music conversion (accepted at IEEE ISM 2022)
-- **Open NSynth Super**: Experimental physical interface for NSynth algorithm
-- **Lyrics-Conditioned Neural Melody Generation**: Generating melodies from lyrics
-- **Classical Piano Composer**: AI-driven classical music composition
 
 ### Open Source Philosophy
 
