@@ -219,6 +219,14 @@ ul li::before {
     font-size: 1.1rem;
 }
 
+.content-body a {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-all;
+    display: inline-block;
+    max-width: 100%;
+}
+
 /* Member Cards */
 .members-grid {
     display: grid;
@@ -471,6 +479,21 @@ footer a:hover {
         font-size: 1rem;
     }
 
+    .content-body a {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        word-break: break-all;
+        max-width: 100%;
+        hyphens: auto;
+    }
+
+    .content-body ul li {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        padding-left: 1.2rem;
+        margin-right: 0.5rem;
+    }
+
     .members-grid {
         grid-template-columns: 1fr;
         gap: 1rem;
@@ -519,6 +542,18 @@ footer a:hover {
 
     .content-page {
         padding: 1.5rem;
+    }
+
+    .content-body a {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        word-break: break-all;
+        max-width: 100%;
+    }
+
+    .content-body ul li {
+        padding-left: 1rem;
+        margin-right: 0.5rem;
     }
 
     .member-card {
