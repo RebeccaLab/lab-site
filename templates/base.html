@@ -45,14 +45,14 @@
                                 {% if path_no_zh == "" or path_no_zh == "/" %}
                                     <a href="{{ config.base_url }}">English</a>
                                 {% else %}
-                                    <a href="{{ config.base_url }}{{ path_no_zh | replace(from="/", to="") }}">English</a>
+                                    <a href="{{ config.base_url }}{{ path_no_zh }}">English</a>
                                 {% endif %}
                             {% elif page %}
                                 {% set path_no_zh = page.path | replace(from="/zh", to="") %}
                                 {% if path_no_zh == "" or path_no_zh == "/" %}
                                     <a href="{{ config.base_url }}">English</a>
                                 {% else %}
-                                    <a href="{{ config.base_url }}{{ path_no_zh | replace(from="/", to="") }}">English</a>
+                                    <a href="{{ config.base_url }}{{ path_no_zh }}">English</a>
                                 {% endif %}
                             {% else %}
                                 <a href="{{ config.base_url }}">English</a>
