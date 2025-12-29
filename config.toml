@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "/lab-site/"
+base_url = "https://rebeccaailab.rebeccacasalibro.workers.dev/"
 
 # Default language
 default_language = "en"
