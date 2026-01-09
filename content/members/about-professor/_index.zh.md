@@ -16,6 +16,7 @@ No. 100, Wenhwa Road, Taichung City, 407102, Taiwan, R.O.C.
 - **系所頁面**: [https://www.iecs.fcu.edu.tw/en/teacher/peiclin/](https://www.iecs.fcu.edu.tw/en/teacher/peiclin/)
 - **GitHub**: [https://github.com/RebeccaLab](https://github.com/RebeccaLab)
 - **LinkedIn**: [https://www.linkedin.com/in/rebecca-lin-2320a064/](https://www.linkedin.com/in/rebecca-lin-2320a064/)
+- **Google Scholar**: [Google Scholar 個人檔案](https://scholar.google.com/citations?user=TtyZqIcAAAAJ&hl=en)
 - **ORCID**: [https://orcid.org/0000-0003-0735-2693](https://orcid.org/0000-0003-0735-2693)
 
 ---
